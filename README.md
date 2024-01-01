@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Assembly-f24339?style=for-the-badge&logo=assemblyscript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&labelColor=black)
+
 
 <br/>
 <hr/>
