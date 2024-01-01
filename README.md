@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Nguyen Trong Khanh Duy desu
 <!--
 **DuyNTK3020/DuyNTK3020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&labelColor=black)
 
 <br/>
 <hr/>
